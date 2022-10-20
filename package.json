@@ -4,5 +4,7 @@
   "dependencies": {
     "puppeteer": "^19.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "axios": "^1.1.3"
+  }
 }
